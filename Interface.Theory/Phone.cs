@@ -11,5 +11,10 @@ namespace Interface.Theory
 		public string Model;
 		public decimal Price;
 		public string BrandName;
+
+		public void Print()
+		{
+			Console.WriteLine("Print everything");
+		}
 	}
 }
