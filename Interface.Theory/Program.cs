@@ -44,6 +44,12 @@ namespace Interface.Theory
 
 			Console.ReadLine();
 
+			myPerson.Run();
+
+			UsainBolt usainBolt = new UsainBolt();
+			usainBolt.Run();
+
+			Console.ReadLine();
 
 		}
 	}

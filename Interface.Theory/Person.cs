@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Interface.Theory
 {
 	// Class Person Inherits / Implement Interface IBehave
-	class Person : IBehave
+	public class Person : IBehave
 	{
 		public string FirstName;
 		public string LastName;
@@ -17,7 +17,10 @@ namespace Interface.Theory
 		{
 			Console.WriteLine("The person is eating ...");
 		}
-		public void Run()
+
+		// Run functions with 3 different implementation
+		// Overloading
+		public virtual void Run()
 		{
 			Console.WriteLine("The person is running ...");
 		}
