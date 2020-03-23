@@ -19,13 +19,11 @@ namespace Interface.Theory
 		public void Run()
 		{
 			Console.WriteLine("The dog is running ...");
-
 		}
 
 		public void Sleep()
 		{
 			Console.WriteLine("The dog is sleeping ...");
-
 		}
 
 		public void Stop()

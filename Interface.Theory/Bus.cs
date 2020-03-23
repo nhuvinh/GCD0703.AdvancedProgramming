@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Interface.Theory
 {
-	// Declare an Interface
-	public interface IBehave
+	public class Bus : IVehicle
 	{
-		void Run();
-		void Stop();
-		void Eat();
-		void Sleep();
-		void HappyBirthday();
+		public void Run()
+		{
+			Console.WriteLine("Let ride the Bus ...");
+		}
 	}
 }

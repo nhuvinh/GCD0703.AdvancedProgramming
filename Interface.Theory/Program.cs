@@ -26,6 +26,16 @@ namespace Interface.Theory
 
 			Console.ReadLine();
 
+			Car car = new Car();
+			Bus bus = new Bus();
+			Bicycle bicycle = new Bicycle();
+
+			myPerson.Drive(car);
+			myPerson.Drive(bus);
+			myPerson.Drive(bicycle);
+
+			Console.ReadLine();
+
 		}
 	}
 }
