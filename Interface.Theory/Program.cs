@@ -36,6 +36,15 @@ namespace Interface.Theory
 
 			Console.ReadLine();
 
+			myPerson.Run(10);
+
+			Console.ReadLine();
+
+			myPerson.Run(10, car);
+
+			Console.ReadLine();
+
+
 		}
 	}
 }

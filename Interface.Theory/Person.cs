@@ -22,6 +22,18 @@ namespace Interface.Theory
 			Console.WriteLine("The person is running ...");
 		}
 
+		public void Run(int distance)
+		{
+			Console.WriteLine("The person is running + " + distance);
+		}
+
+		public void Run(int distance, IVehicle vehicle)
+		{
+			vehicle.Run();
+			Console.WriteLine("The person is running + " + distance * 100);
+
+		}
+
 		public void Sleep()
 		{
 			Console.WriteLine("The person is sleeping ...");
