@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Theory\bin\Debug\Abstraction.Theory.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Theory\bin\Debug\Abstraction.Theory.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Theory\bin\Debug\Abstraction.Theory.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Theory\obj\Debug\Abstraction.Theory.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Theory\obj\Debug\Abstraction.Theory.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Theory\obj\Debug\Abstraction.Theory.pdb
