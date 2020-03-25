@@ -10,6 +10,13 @@ namespace ClassDiagrams.Theory
 	{
 		static void Main(string[] args)
 		{
+			Engine engine_1 = new Engine();
+			Car myCar = new Car(engine_1);
+
+			Engine engine_2 = new Engine();
+			myCar.CarEngine = engine_2;
+
+			Book myBook = new Book();
 		}
 	}
 }
