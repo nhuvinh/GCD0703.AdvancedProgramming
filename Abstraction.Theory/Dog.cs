@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction.Theory
 {
-	class Dog : Animal
+	public class Dog : Animal
 	{
 		public int Legs;
 
