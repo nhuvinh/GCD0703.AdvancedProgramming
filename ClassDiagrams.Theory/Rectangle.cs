@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace ClassDiagrams.Theory
 {
-	class Rectangle
+	class Rectangle : RectangularShape
 	{
-		private int weight;
-		private int height;
-		double area;
+		//private int weight;
+		//private int height;
+		//double area;
+
+		private int x;
+		private int y;
 
 		public Rectangle(int w, int h)
 		{

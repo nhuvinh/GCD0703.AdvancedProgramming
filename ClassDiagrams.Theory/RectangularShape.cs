@@ -6,22 +6,22 @@ using System.Threading.Tasks;
 
 namespace ClassDiagrams.Theory
 {
-	class Student
+	abstract class RectangularShape : IShape
 	{
-		private string name;
-		private int id;
-		private static int totalStudents;
+		private int width;
+		private int height;
+		double area;
 
-		protected int getId()
+		public bool contains(int x, int y)
 		{
 			// To be implemented
-			return 0;
+			return false;
 		}
 
-		string getEmail()
+		public double getArea()
 		{
 			// To be implemented
-			return "";
+			throw new NotImplementedException();
 		}
 	}
 }
