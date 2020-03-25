@@ -20,6 +20,7 @@ namespace Abstraction.Theory
 			Species = species;
 		}
 
+		// Child classes will override this method
 		public virtual string Print()
 		{
 			return Name + ", " + Age + ", " + Species;
