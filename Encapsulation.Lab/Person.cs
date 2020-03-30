@@ -11,17 +11,19 @@ namespace Encapsulation.Lab
 		private string FirstName;
 		private string LastName;
 		private int Age;
+		private decimal Salary;
 
-		public Person(string firstName, string lastName, int age)
+		public Person(string firstName, string lastName, int age, decimal salary)
 		{
 			FirstName = firstName;
 			LastName = lastName;
 			Age = age;
+			Salary = salary;
 		}
 
 		public override string ToString()
 		{
-			return FirstName + " " + LastName + " is " + Age + " years old.";
+			return FirstName + " " + LastName + " is " + Age + " years old, receives " + Salary;
 		}
 
 		public string GetFirstName()
@@ -32,6 +34,16 @@ namespace Encapsulation.Lab
 		public int GetAge()
 		{
 			return Age;
+		}
+
+		public void IncreaseSalary(decimal percentage)
+		{
+			if (Age < 30)
+			{
+				Salary += Salary * percentage / 2 / 100;
+			}
+			else
+				Salary += Salary * percentage / 100;
 		}
 	}
 }
