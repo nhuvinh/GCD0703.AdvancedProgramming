@@ -20,7 +20,7 @@ namespace Abstraction.Lab
 			Console.ReadLine();
 
 			Student student_1 = new Student("Pesho", 20, 5.5);
-			Student student_2 = new Student("Mimi ", 23, 4.5);
+			Student student_2 = new Student("Mimi", 23, 4.5);
 
 			Class myClass = new Class();
 			myClass.Create(student_1);
@@ -29,6 +29,7 @@ namespace Abstraction.Lab
 			myClass.Show("Mimi");
 
 			Console.ReadLine();
+
 
 		}
 	}
