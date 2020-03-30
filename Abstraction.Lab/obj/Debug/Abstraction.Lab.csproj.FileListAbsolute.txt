@@ -3,3 +3,4 @@ C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Lab\bin\Debu
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Lab\bin\Debug\Abstraction.Lab.pdb
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Lab\obj\Debug\Abstraction.Lab.exe
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Lab\obj\Debug\Abstraction.Lab.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Abstraction.Lab\obj\Debug\Abstraction.Lab.csprojAssemblyReference.cache
