@@ -1,6 +1,5 @@
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Interface.Theory\bin\Debug\Interface.Theory.exe.config
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Interface.Theory\bin\Debug\Interface.Theory.exe
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Interface.Theory\bin\Debug\Interface.Theory.pdb
-C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Interface.Theory\obj\Debug\Interface.Theory.csprojAssemblyReference.cache
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Interface.Theory\obj\Debug\Interface.Theory.exe
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Interface.Theory\obj\Debug\Interface.Theory.pdb

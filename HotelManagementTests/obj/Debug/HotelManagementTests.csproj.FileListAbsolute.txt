@@ -1,0 +1,16 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\nunit.engine.dll
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\nunit.engine.api.dll
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\HotelManagementTests.dll
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\HotelManagementTests.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\HotelManagement.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\nunit.framework.dll
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\HotelManagement.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\HotelManagement.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\nunit.framework.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\bin\Debug\nunit.framework.xml
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\obj\Debug\HotelManagementTests.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\obj\Debug\HotelManagementTests.csproj.CopyComplete
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\obj\Debug\HotelManagementTests.dll
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagementTests\obj\Debug\HotelManagementTests.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HotelManagement
 {
-	class Booking
+	public class Booking
 	{
 		public DateTime StartDate { get; private set; }
 		public DateTime EndDate { get; private set; }
@@ -15,6 +15,15 @@ namespace HotelManagement
 		{
 			StartDate = startDate;
 			EndDate = endDate;
+		}
+
+		public void Print()
+		{
+			Console.WriteLine("Booking Status");
+			Console.WriteLine("StarteDate: " + StartDate.Date);
+			Console.WriteLine("EndDate: " + EndDate.Date);
+			Console.WriteLine("=======");
+
 		}
 	}
 }

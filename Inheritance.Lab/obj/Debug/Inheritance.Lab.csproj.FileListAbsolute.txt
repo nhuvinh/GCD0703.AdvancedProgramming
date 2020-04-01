@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Inheritance.Lab\bin\Debug\Inheritance.Lab.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Inheritance.Lab\bin\Debug\Inheritance.Lab.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Inheritance.Lab\bin\Debug\Inheritance.Lab.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Inheritance.Lab\obj\Debug\Inheritance.Lab.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Inheritance.Lab\obj\Debug\Inheritance.Lab.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Inheritance.Lab\obj\Debug\Inheritance.Lab.pdb

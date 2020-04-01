@@ -19,34 +19,47 @@ namespace HotelManagement
 			DoubleRooms = new List<Room>();
 		}
 
+		public void AddRoom(string roomType, int id, decimal price)
+		{
+			if (roomType.Equals("Single"))
+			{
+				SingleRooms.Add(new Room(id, price, roomType));
+			}
+			else if (roomType.Equals("Double"))
+			{
+				DoubleRooms.Add(new Room(id, price, roomType));
+			}
+		}
+
 		public Room Search(decimal price, int capacity, DateTime startDate, DateTime endDate)
 		{
+			Room roomResult;
 			if (capacity == 1)
 			{
-				// Search in SingleRooms
-				foreach (var room in SingleRooms)
+				roomResult = SingleRooms.SingleOrDefault(x => x.Price == price && !x.IsBooked(startDate, endDate));
+				if (roomResult != null)
 				{
-					if (!room.IsBooked(startDate, endDate) && room.Price == price)
-					{
-						room.AddBooking(startDate, endDate);
-						return room;
-					}
+					roomResult.AddBooking(startDate, endDate);
 				}
+				else if (roomResult == null)
+				{
+					roomResult = SingleRooms.FirstOrDefault(x => !x.IsBooked(startDate, endDate));
+				}
+
 			}
 			else
 			{
-				// Seacrh in DoubleRooms
-				foreach (var room in DoubleRooms)
+				roomResult = DoubleRooms.SingleOrDefault(x => x.Price == price && !x.IsBooked(startDate, endDate));
+				if (roomResult != null)
 				{
-					if (!room.IsBooked(startDate, endDate) && room.Price == price)
-					{
-						room.AddBooking(startDate, endDate);
-						return room;
-					}
+					roomResult.AddBooking(startDate, endDate);
+				}
+				else if (roomResult == null)
+				{
+					roomResult = DoubleRooms.FirstOrDefault(x => !x.IsBooked(startDate, endDate));
 				}
 			}
-
-			return null;
+			return roomResult;
 		}
 	}
 }

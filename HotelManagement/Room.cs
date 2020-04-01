@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace HotelManagement
 {
-	class Room
+	public class Room
 	{
+		public int Id;
 		public decimal Price;
 		public string RoomType;
 		public List<Booking> Bookings;
 
-		public Room(decimal price, string roomType)
+		public Room(int id, decimal price, string roomType)
 		{
+			Id = id;
 			Price = price;
 			RoomType = roomType;
 			Bookings = new List<Booking>();
@@ -34,6 +36,16 @@ namespace HotelManagement
 		public void AddBooking(DateTime startDate, DateTime endDate)
 		{
 			Bookings.Add(new Booking(startDate, endDate));
+		}
+
+		public void Print()
+		{
+			Console.WriteLine("Room Status");
+			Console.WriteLine("Id: " + Id + " Price: " + Price + "RoomType" + RoomType);
+			foreach (var booking in Bookings)
+			{
+				booking.Print();
+			}
 		}
 	}
 }

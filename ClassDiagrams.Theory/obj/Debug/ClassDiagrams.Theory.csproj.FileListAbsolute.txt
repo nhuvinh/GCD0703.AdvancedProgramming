@@ -1,6 +1,5 @@
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\ClassDiagrams.Theory\bin\Debug\ClassDiagrams.Theory.exe.config
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\ClassDiagrams.Theory\bin\Debug\ClassDiagrams.Theory.exe
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\ClassDiagrams.Theory\bin\Debug\ClassDiagrams.Theory.pdb
-C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\ClassDiagrams.Theory\obj\Debug\ClassDiagrams.Theory.csprojAssemblyReference.cache
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\ClassDiagrams.Theory\obj\Debug\ClassDiagrams.Theory.exe
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\ClassDiagrams.Theory\obj\Debug\ClassDiagrams.Theory.pdb

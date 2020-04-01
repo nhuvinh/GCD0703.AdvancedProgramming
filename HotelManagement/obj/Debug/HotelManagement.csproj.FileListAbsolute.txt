@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache

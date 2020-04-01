@@ -1,6 +1,5 @@
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Encapsulation.Lab\bin\Debug\Encapsulation.Lab.exe.config
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Encapsulation.Lab\bin\Debug\Encapsulation.Lab.exe
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Encapsulation.Lab\bin\Debug\Encapsulation.Lab.pdb
-C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Encapsulation.Lab\obj\Debug\Encapsulation.Lab.csprojAssemblyReference.cache
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Encapsulation.Lab\obj\Debug\Encapsulation.Lab.exe
 C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\Encapsulation.Lab\obj\Debug\Encapsulation.Lab.pdb
