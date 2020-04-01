@@ -21,6 +21,31 @@ namespace HotelManagement
 
 		public Room Search(decimal price, int capacity, DateTime startDate, DateTime endDate)
 		{
+			if (capacity == 1)
+			{
+				// Search in SingleRooms
+				foreach (var room in SingleRooms)
+				{
+					if (!room.IsBooked(startDate, endDate) && room.Price == price)
+					{
+						room.AddBooking(startDate, endDate);
+						return room;
+					}
+				}
+			}
+			else
+			{
+				// Seacrh in DoubleRooms
+				foreach (var room in DoubleRooms)
+				{
+					if (!room.IsBooked(startDate, endDate) && room.Price == price)
+					{
+						room.AddBooking(startDate, endDate);
+						return room;
+					}
+				}
+			}
+
 			return null;
 		}
 	}

@@ -21,7 +21,19 @@ namespace HotelManagement
 
 		public bool IsBooked(DateTime startDate, DateTime endDate)
 		{
-			return false;
+			bool result = false;
+			bool tempResult;
+			foreach (var booking in Bookings)
+			{
+				tempResult = startDate > booking.EndDate || endDate < booking.StartDate;
+				result = !tempResult || result;
+			}
+			return result;
+		}
+
+		public void AddBooking(DateTime startDate, DateTime endDate)
+		{
+			Bookings.Add(new Booking(startDate, endDate));
 		}
 	}
 }
