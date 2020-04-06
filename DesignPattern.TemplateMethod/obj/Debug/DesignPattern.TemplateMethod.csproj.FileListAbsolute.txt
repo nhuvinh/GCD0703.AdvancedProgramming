@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.TemplateMethod\bin\Debug\DesignPattern.TemplateMethod.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.TemplateMethod\bin\Debug\DesignPattern.TemplateMethod.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.TemplateMethod\bin\Debug\DesignPattern.TemplateMethod.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.TemplateMethod\obj\Debug\DesignPattern.TemplateMethod.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.TemplateMethod\obj\Debug\DesignPattern.TemplateMethod.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.TemplateMethod\obj\Debug\DesignPattern.TemplateMethod.pdb
