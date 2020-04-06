@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagementTests", "Hot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Singleton", "DesignPattern.Singleton\DesignPattern.Singleton.csproj", "{0F6E9EAA-23D1-432B-9D33-41CC5017A32B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.FactoryMethod", "DesignPattern.FactoryMethod\DesignPattern.FactoryMethod.csproj", "{5792D488-2F8D-4224-8EB6-C9FA7FF001EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0F6E9EAA-23D1-432B-9D33-41CC5017A32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F6E9EAA-23D1-432B-9D33-41CC5017A32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F6E9EAA-23D1-432B-9D33-41CC5017A32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5792D488-2F8D-4224-8EB6-C9FA7FF001EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5792D488-2F8D-4224-8EB6-C9FA7FF001EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5792D488-2F8D-4224-8EB6-C9FA7FF001EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5792D488-2F8D-4224-8EB6-C9FA7FF001EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
