@@ -8,7 +8,7 @@ namespace DesignPattern.Singleton
 {
 	class President
 	{
-		private static President instance = new President();
+		private static President instance;
 
 		private President()
 		{
