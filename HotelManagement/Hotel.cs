@@ -45,7 +45,6 @@ namespace HotelManagement
 				{
 					roomResult = SingleRooms.FirstOrDefault(x => !x.IsBooked(startDate, endDate));
 				}
-
 			}
 			else
 			{

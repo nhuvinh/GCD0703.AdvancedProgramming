@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Singleton\bin\Debug\DesignPattern.Singleton.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Singleton\bin\Debug\DesignPattern.Singleton.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Singleton\bin\Debug\DesignPattern.Singleton.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Singleton\obj\Debug\DesignPattern.Singleton.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Singleton\obj\Debug\DesignPattern.Singleton.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Singleton\obj\Debug\DesignPattern.Singleton.pdb
