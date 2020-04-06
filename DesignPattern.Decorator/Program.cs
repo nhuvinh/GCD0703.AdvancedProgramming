@@ -20,7 +20,6 @@ namespace DesignPattern.Decorator
 			Console.WriteLine(milkShake.GetDescription());
 
 			Console.ReadLine();
-
 		}
 	}
 }
