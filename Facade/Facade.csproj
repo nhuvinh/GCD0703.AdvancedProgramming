@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DEBC175D-511C-4764-93B2-2F67DBAAEF70}</ProjectGuid>
+    <ProjectGuid>{635B255E-DD96-42AB-952D-FD3FEFC8B59B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPattern.Decorator</RootNamespace>
-    <AssemblyName>DesignPattern.Decorator</AssemblyName>
+    <RootNamespace>Facade</RootNamespace>
+    <AssemblyName>Facade</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlackCoffee.cs" />
-    <Compile Include="Computer.cs" />
-    <Compile Include="ICoffee.cs" />
-    <Compile Include="MilkCoffee.cs" />
-    <Compile Include="MilkShake.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -16,10 +16,14 @@ namespace DesignPattern.Adapter
 			WildDog wildDog = new WildDog();
 			WildDogAdapter wildDogAdapter = new WildDogAdapter(wildDog);
 
+			Cat cat = new Cat();
+			CatAdapter catAdapter = new CatAdapter(cat);
+
 			Hunter hunter = new Hunter();
 			hunter.Hunt(asianLion);
 			hunter.Hunt(africanLion);
 			hunter.Hunt(wildDogAdapter);
+			hunter.Hunt(catAdapter);
 
 		}
 	}

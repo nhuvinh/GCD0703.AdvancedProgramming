@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Facade\bin\Debug\DesignPattern.Facade.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Facade\bin\Debug\DesignPattern.Facade.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Facade\bin\Debug\DesignPattern.Facade.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Facade\obj\Debug\DesignPattern.Facade.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Facade\obj\Debug\DesignPattern.Facade.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\DesignPattern.Facade\obj\Debug\DesignPattern.Facade.pdb
