@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.TemplateMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Visitor", "DesignPattern.Visitor\DesignPattern.Visitor.csproj", "{9FE37CB0-455F-4F46-913D-D238221F37E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaStoreManagement", "PizzaStoreManagement\PizzaStoreManagement.csproj", "{DAC3F38B-6D15-4B75-A8D5-148F83C17E01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{9FE37CB0-455F-4F46-913D-D238221F37E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FE37CB0-455F-4F46-913D-D238221F37E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FE37CB0-455F-4F46-913D-D238221F37E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC3F38B-6D15-4B75-A8D5-148F83C17E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC3F38B-6D15-4B75-A8D5-148F83C17E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC3F38B-6D15-4B75-A8D5-148F83C17E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC3F38B-6D15-4B75-A8D5-148F83C17E01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

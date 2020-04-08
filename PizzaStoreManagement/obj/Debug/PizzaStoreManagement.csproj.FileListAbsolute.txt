@@ -1,0 +1,7 @@
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\PizzaStoreManagement\bin\Debug\PizzaStoreManagement.exe.config
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\PizzaStoreManagement\bin\Debug\PizzaStoreManagement.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\PizzaStoreManagement\bin\Debug\PizzaStoreManagement.pdb
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\PizzaStoreManagement\obj\Debug\PizzaStoreManagement.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\PizzaStoreManagement\obj\Debug\PizzaStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\PizzaStoreManagement\obj\Debug\PizzaStoreManagement.exe
+C:\Users\nhuvi\source\repos\GCD0703.AdvancedProgramming\PizzaStoreManagement\obj\Debug\PizzaStoreManagement.pdb
