@@ -15,5 +15,10 @@ namespace PizzaStoreManagement
 			Price = price;
 			Calories = calories;
 		}
+
+		public double GetPrice()
+		{
+			return Price;
+		}
 	}
 }

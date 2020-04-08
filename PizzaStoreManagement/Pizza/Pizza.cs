@@ -25,5 +25,15 @@ namespace PizzaStoreManagement
 		{
 			Toppings.Add(topping);
 		}
+
+		public override double GetPrice()
+		{
+			return Price + Toppings.Sum(x => x.GetPrice());
+		}
+
+		public bool GetSize()
+		{
+			return FamilySize;
+		}
 	}
 }

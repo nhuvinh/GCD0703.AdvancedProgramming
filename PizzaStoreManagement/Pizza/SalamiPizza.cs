@@ -9,7 +9,7 @@ namespace PizzaStoreManagement
 	class SalamiPizza : Pizza
 	{
 		MargheritaPizza _basePizza;
-		public SalamiPizza(MargheritaPizza basePizza, bool familySize) : base(5.99, 1160, familySize)
+		public SalamiPizza(MargheritaPizza basePizza) : base(5.99, 1160, basePizza.GetSize())
 		{
 			_basePizza = basePizza;
 		}

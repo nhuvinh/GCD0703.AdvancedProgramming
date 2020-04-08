@@ -14,7 +14,7 @@ namespace PizzaStoreManagement
 			Price = price;
 		}
 
-		public double GetPrice()
+		public virtual double GetPrice()
 		{
 			return Price;
 		}

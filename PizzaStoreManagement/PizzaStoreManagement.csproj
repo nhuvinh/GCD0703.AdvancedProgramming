@@ -43,28 +43,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Beverage.cs" />
-    <Compile Include="Cheese.cs" />
+    <Compile Include="Beverage\Beverage.cs" />
+    <Compile Include="Pizza\Topping\Cheese.cs" />
     <Compile Include="Food.cs" />
-    <Compile Include="FranchiseItem.cs" />
-    <Compile Include="Ham.cs" />
-    <Compile Include="HawaiianPizza.cs" />
-    <Compile Include="Lemonade.cs" />
-    <Compile Include="MargheritaPizza.cs" />
-    <Compile Include="Mug.cs" />
-    <Compile Include="Onion.cs" />
+    <Compile Include="FranchiseItem\FranchiseItem.cs" />
+    <Compile Include="Pizza\Topping\Ham.cs" />
+    <Compile Include="Pizza\HawaiianPizza.cs" />
+    <Compile Include="Beverage\Lemonade.cs" />
+    <Compile Include="Pizza\MargheritaPizza.cs" />
+    <Compile Include="FranchiseItem\Mug.cs" />
+    <Compile Include="Pizza\Topping\Onion.cs" />
     <Compile Include="Order.cs" />
-    <Compile Include="Pineapple.cs" />
-    <Compile Include="Pizza.cs" />
+    <Compile Include="Pizza\Topping\Pineapple.cs" />
+    <Compile Include="Pizza\Pizza.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Salami.cs" />
-    <Compile Include="SalamiPizza.cs" />
-    <Compile Include="Shirt.cs" />
-    <Compile Include="Topping.cs" />
-    <Compile Include="Water.cs" />
-    <Compile Include="Wine.cs" />
+    <Compile Include="Pizza\Topping\Salami.cs" />
+    <Compile Include="Pizza\SalamiPizza.cs" />
+    <Compile Include="FranchiseItem\Shirt.cs" />
+    <Compile Include="Pizza\Topping\Topping.cs" />
+    <Compile Include="Beverage\Water.cs" />
+    <Compile Include="Beverage\Wine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
