@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace PizzaStoreManagement
 {
-	class Pizza : Food
+	abstract class Pizza : Food
 	{
 		protected bool FamilySize;
-		protected List<Topping> Toppings;
+
 		public Pizza(double price, double calories, bool familySize) : base(price, calories)
 		{
 			FamilySize = familySize;
-			Toppings = new List<Topping>();
 			if (familySize)
 			{
 				Price = Price + 4.15;
@@ -21,16 +20,7 @@ namespace PizzaStoreManagement
 			}
 		}
 
-		public void AddToping(Topping topping)
-		{
-			Toppings.Add(topping);
-		}
-
-		public override double GetPrice()
-		{
-			return Price + Toppings.Sum(x => x.GetPrice());
-		}
-
+		public abstract void AddToping(Topping topping);
 		public bool GetSize()
 		{
 			return FamilySize;

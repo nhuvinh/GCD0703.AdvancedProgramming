@@ -18,7 +18,7 @@ namespace PizzaStoreManagement
 			order.AddProduct(new Wine());
 			order.AddProduct(new Water());
 
-			MargheritaPizza basePizza = new MargheritaPizza(true);
+			MargheritaPizza basePizza = new MargheritaPizza(false);
 			HawaiianPizza hawaiianPizza = new HawaiianPizza(basePizza);
 			hawaiianPizza.AddToping(new Cheese());
 

@@ -13,5 +13,15 @@ namespace PizzaStoreManagement
 		{
 			_basePizza = basePizza;
 		}
+
+		public override void AddToping(Topping topping)
+		{
+			_basePizza.AddToping(topping);
+		}
+
+		public override double GetPrice()
+		{
+			return Price + _basePizza.GetToppingPrice();
+		}
 	}
 }
